@@ -1,1 +1,1 @@
-# StacyX
+# StacyX Plugin Updater
